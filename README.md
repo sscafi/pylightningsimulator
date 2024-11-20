@@ -1,6 +1,6 @@
 # Lightning Formation Simulation
 
-## Overview.
+## Overview
 
 This project simulates the formation of lightning using a graphical user interface (GUI) built with Tkinter and animations created with Matplotlib. The animation visually represents the different stages of lightning formation, including the appearance of cumulonimbus clouds, the leader formation, and the return stroke.
 
