@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a sophisticated visualization of lightning formation using Python. It features a physics-based animation system that accurately represents the various stages of lightning development, from cloud formation to the final strike, complete with branching patterns and atmospheric effects
+This project provides a sophisticated visualization of lightning formation using Python. It features a physics-based animation system that accurately represents the various stages of lightning development, from cloud formation to the final strike, complete with branching patterns and atmospheric effects.
 
 ## Features
 
